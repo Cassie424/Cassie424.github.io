@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Portfolio",
+  "description": "A customizable and interactive temporary cybersecurity portfolio showcasing professional credentials, active projects, and security research tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
